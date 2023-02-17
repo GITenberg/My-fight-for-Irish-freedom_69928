@@ -1,0 +1,31 @@
+_repo: My-fight-for-Irish-freedom_69928
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: McGarrity, Joseph
+    gutenberg_agent_id: '55498'
+    url: http://www.gutenberg.org/2009/agents/55498
+creator:
+  author:
+    agent_name: Breen, Dan
+    gutenberg_agent_id: '55497'
+    url: http://www.gutenberg.org/2009/agents/55497
+description: ''
+gutenberg_issued: '2023-02-01'
+identifiers:
+  gutenberg: '69928'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/wu.89032202582
+pgterms:marc905: 20200519102654breen
+pgterms:marc906: '1924'
+pgterms:marc907: IE
+production_note: Tim Lindell and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aIreland :$bTalbot Press, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: My fight for Irish freedom
+url: http://www.gutenberg.org/ebooks/69928
