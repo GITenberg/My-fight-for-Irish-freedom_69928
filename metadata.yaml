@@ -5,12 +5,17 @@ contributor:
     agent_name: McGarrity, Joseph
     gutenberg_agent_id: '55498'
     url: http://www.gutenberg.org/2009/agents/55498
+covers:
+- cover_type: archival
+  image_path: 69928-h/images/cover.jpg
 creator:
   author:
     agent_name: Breen, Dan
     gutenberg_agent_id: '55497'
     url: http://www.gutenberg.org/2009/agents/55497
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69928#My-fight-for-Irish-freedom
 gutenberg_issued: '2023-02-01'
 identifiers:
   gutenberg: '69928'
